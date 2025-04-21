@@ -1,0 +1,10 @@
+# Add this file if not present. Install dependencies with: pip install -r requirements.txt
+
+ultralytics
+opencv-python
+torch
+transformers
+pillow
+numpy
+requests
+clip @ git+https://github.com/openai/CLIP.git

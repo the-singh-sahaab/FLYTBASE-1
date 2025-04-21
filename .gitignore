@@ -1,0 +1,15 @@
+# .gitignore
+venv/
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.idea/
+*.vscode/
+venv-dronekit/
+ardupilot/
